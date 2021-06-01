@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://www.awalkaday.art"
+baseurl: "https://daqhris.com/awalkaday"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""

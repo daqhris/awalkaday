@@ -1,30 +1,30 @@
 {
-  "name": "photography",
+  "name": "awalkaday",
   "version": "3.0.0",
-  "description": "A jekyll website for photographer cum developer",
+  "description": "A visual arts gallery to inspire daily walking habits",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/daqhris/awalkaday.git"
   },
   "keywords": [
+    "awalkaday",
+    "walk",
+    "day",
+    "fitness",
     "photography",
-    "jekyll",
-    "website",
-    "template",
-    "website template",
     "portfolio",
-    "portfolio website"
+    "black and white images",
   ],
-  "author": "Ram Patra",
+  "author": "Chris-Armel (@daqhris)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/daqhris/awalkaday/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://github.com/daqhris/awalkaday#readme",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",

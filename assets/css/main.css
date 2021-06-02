@@ -973,7 +973,7 @@
 /* Panel */
 
 	.panel {
-		padding: 4em 4em 4em 4em ;
+		padding: 4em 4em 2em 4em ;
 		-moz-transform: translateY(100vh);
 		-webkit-transform: translateY(100vh);
 		-ms-transform: translateY(100vh);

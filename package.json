@@ -1,7 +1,7 @@
 {
   "name": "awalkaday",
   "version": "3.0.0",
-  "description": "A visual arts gallery to inspire daily walking habits",
+  "description": "WALK≡DAY Visual Arts Gallery to inspire daily walking habits",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

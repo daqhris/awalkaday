@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit https://daqhris.com/awalkaday for a nice surprise!");
+    console.log("Visit https://awalkaday.art for a wonderful surprise!");
 };

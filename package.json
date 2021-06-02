@@ -35,7 +35,6 @@
     "gulp-uglify": "^3.0.0",
     "node-sass": "^6.0.0",
     "lodash.template": "^4.5.0"
-}
   },
   "dependencies": {}
 }

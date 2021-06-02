@@ -13,14 +13,14 @@
   "keywords": [
     "awalkaday",
     "walk",
-    "day",
-    "fitness",
+    "everyday",
     "photography",
     "portfolio",
-    "black and white images"
+    "black and white images",
+    "gallery"
   ],
-  "author": "Chris-Armel (@daqhris)",
-  "license": "GPL-3.0",
+  "author": "Chris-Armel",
+  "license": "EUPL-1.2",
   "bugs": {
     "url": "https://github.com/daqhris/awalkaday/issues"
   },
@@ -34,7 +34,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
     "node-sass": "^6.0.0",
-    "lodash.template": ">=4.5.0"
+    "lodash.template": "^4.5.0"
 }
   },
   "dependencies": {}

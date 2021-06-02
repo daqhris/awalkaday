@@ -1,20 +1,20 @@
 # Base configs
-baseurl: "https://daqhris.com/awalkaday"
+baseurl: "https://awalkaday.art"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
 title: "WALK≡DAY Visual Arts Gallery"
-subtitle: "The sun is up and running, everyday, for you."
-author: "Chris-Armel"
+subtitle: "The sun is up and running, everyday, for you. Take #awalkaday for a healthier life."
+author: "Chris-Armel (@iamdaqhris)"
 header:
  title: "WALK≡DAY"
  subtitle: "by daqhris"
 footer:
  name: "WALK≡DAY Visual Arts Gallery"
- bio: "This is a black and white visual arts project that curates images in order to inspire people to get up and go for a walk. #awalkaday"
+ bio: "A black-and-white visual arts project that curates images in order to inspire people to get up and go for a walk. You may find our photo collection on Instagram where they are shared with the hashtag #awalkaday."
  github: ""
-web_design: "daqhris"
+web_design: ""
 social_urls:
   instagram: "https://www.instagram.com/walk.day"

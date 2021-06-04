@@ -1,5 +1,5 @@
 # WALK≡DAY Visual Arts Gallery
-This is the public __code repository__ of a Jekyll static website largely built in JavaScript for running an online art gallery.
+This is the public __code repository__ of a Jekyll web app largely built in JavaScript for running an online art gallery.
 
 ## Highlights
 1. __Easy__ setup and __free__ photography website.

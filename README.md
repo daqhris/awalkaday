@@ -1,5 +1,5 @@
 # WALK≡DAY Visual Arts Gallery
-This is the public code repository of a Jekyll static website largely built in JavaScript for running an online Art Gallery.
+This is the public __code repository__ of a Jekyll static website largely built in JavaScript for running an online art gallery.
 
 ## Highlights
 1. __Easy__ setup and __free__ photography website.
@@ -21,7 +21,7 @@ all your creations without effort.
 
 And, of course, you can modify the words shown at the landing page bottom in `_config.yml` file as well as few other settings like your Google Analytics, Social Media icons, Contact Forms, etc.
  
-## ProTips
+## Tips
 The website is set up as an [npm](https://www.npmjs.com) package with [gulp](http://gulpjs.com/) to __automate image resizing
 and thumbnail generation__. You can just do the following before you push your images to GitHub.
 

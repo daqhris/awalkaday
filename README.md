@@ -30,4 +30,6 @@ and thumbnail generation__. You can just do the following before you push your i
 3. Install all dependencies by `$ npm install`
 4. Copy all your pictures (possibly jpg, the largest size available, straight from your camera or original files) and put it inside `images` directory
 5. Run `$ gulp` to resize the images and to generate thumbnails automatically
-6. Push your changes to github.com by using `$ git add --all` and `$ git commit -m "a nice commit message"` and then finally `$ git push origin master`.
+6. Push your changes to github.com by using `$ git add --all` and `$ git commit -m "a nice commit message"` and then finally `$ git push origin master`.  
+
+Modified by @daqhris

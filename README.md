@@ -42,3 +42,4 @@ Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under
 ## Copyrights  
 __Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)  
 __Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)  
+__Site__ owner & developer: [Chris-Armel (daqhris)](https://daqhris.com)

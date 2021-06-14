@@ -33,8 +33,8 @@ and thumbnail generation__. You can just do the following before you push your i
 6. Push your local changes to github.com by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a nice commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`.  
 
 ## Copyrights
-Forked from: [rampatra/photography](https://github.com/rampatra/photography)  
-Code License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)  
-Content Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)  
-Fonts used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
-Brand Icons made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
+GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography) showcased at [Photography by Ram  Patra](https://photography.rampatra.com/)  
+__Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)  
+__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)  
+__Fonts__ used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
+Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  

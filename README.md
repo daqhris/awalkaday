@@ -23,18 +23,22 @@ And, of course, you can modify the words shown at the landing page bottom in `_c
  
 ## Tips
 The website is set up as a [npm](https://www.npmjs.com) package with [gulp](https://gulpjs.com/) to __automate image resizing
-and thumbnail generation__. You can just do the following before you push your images to GitHub.
+and thumbnail generation__.   
+You can just do the following before you push your images to GitHub.
 
 1. Fork and then clone the project to your computer
 2. Go inside the project `$ cd awalkaday`
 3. Install all dependencies by running `$ npm install`
 4. Copy all your pictures (possibly jpg, the largest size available, straight from your camera or original files) and put them inside `images` directory
 5. Run `$ gulp` to resize the images and to generate thumbnails automatically
-6. Push your local changes to github.com by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a nice commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`.  
+6. Push your local changes to github.com by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a nice commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`  
 
-## Copyrights
-GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography) showcased at [Photography by Ram  Patra](https://photography.rampatra.com/)  
+## Credits
+GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography), enhanced for [jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra), code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE)   
+Template: [Multiverse by HTML5 UP](https://html5up.net/multiverse), web designer and developer: [ajlkn](https://aj.lkn.io/)  
+__Fonts__: [Source Sans 3](https://github.com/daqhris/daqhris.github.io/blob/master/style/font/SourceSans3-Regular.ttf), used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
+Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
+
+## Copyrights  
 __Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)  
 __Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)  
-__Fonts__ used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
-Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  

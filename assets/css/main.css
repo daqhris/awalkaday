@@ -173,9 +173,9 @@
 		color: #a0a0a1;
 		font-family: "MerriweatherSans", sans-serif;
 		font-size: 1rem;
-		font-weight: 400;
-		letter-spacing: 0.025em;
-		line-height: 1.65;
+		font-weight: 300;
+		letter-spacing: normal;
+		line-height: 1.5;
 	}
 
 		@media screen and (max-width: 1680px) {

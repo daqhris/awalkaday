@@ -36,7 +36,7 @@ You can just do the following before you push your images to GitHub.
 ## Credits
 GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography), enhanced for [jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra), code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE)   
 Template: [Multiverse by HTML5 UP](https://html5up.net/multiverse), web designer and developer: [ajlkn](https://aj.lkn.io/)  
-__Fonts__: [Source Sans 3](https://github.com/daqhris/daqhris.github.io/blob/master/style/font/SourceSans3-Regular.ttf), used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
+__Fonts__ used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
 Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
 ## Copyrights  

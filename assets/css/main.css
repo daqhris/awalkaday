@@ -1,7 +1,7 @@
 @import url("/assets/css/font-awesome.min.css");
 @font-face {
-  	font-family: "Raleway";
-	src: url("/assets/fonts/Raleway-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+  	font-family: "Merriweather-Light";
+	src: url("/assets/fonts/Merriweather-Light.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-display: swap;}
 /*
 	Multiverse by HTML5 UP
@@ -170,7 +170,7 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: "Merriweather-Light", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 400;
 		letter-spacing: normal;

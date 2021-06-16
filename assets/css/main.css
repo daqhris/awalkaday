@@ -1,7 +1,7 @@
 @import url("https://awalkaday.art/assets/css/font-awesome.min.css");
 @font-face {	
-	font-family: "MerriweatherSans";
-	src: url("https://awalkaday.art/assets/fonts/MerriweatherSans-Light.ttf") format("truetype"); /* Safari, Android, iOS */
+	font-family: "SourceSans";
+	src: url("https://awalkaday.art/assets/fonts/SourceSans3-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
 	font-display: swap;
 }
 /*
@@ -171,11 +171,11 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: "MerriweatherSans", sans-serif;
+		font-family: "SourceSans", sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		letter-spacing: normal;
-		line-height: 1.5;
+		line-height: 1.65;
 	}
 
 		@media screen and (max-width: 1680px) {

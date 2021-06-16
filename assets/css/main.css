@@ -1,7 +1,7 @@
 @import url("https://awalkaday.art/assets/css/font-awesome.min.css");
 @font-face {
-  font-family: "Source Sans";
-	src: url("https://awalkaday.art/assets/fonts/SourceSans3-Regular.ttf") format("ttf")};
+  font-family: "Raleway";
+	src: url("https://awalkaday.art/assets/fonts/Raleway-Regular.ttf") format("ttf")};
 /*
 	Multiverse by HTML5 UP
 	html5up.net | @ajlkn
@@ -169,9 +169,9 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 15pt;
-		font-weight: 300;
+		font-family: "Raleway", Helvetica, sans-serif;
+		font-size: 1rem;
+		font-weight: 400;
 		letter-spacing: 0.025em;
 		line-height: 1.65;
 	}

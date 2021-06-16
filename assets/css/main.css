@@ -170,7 +170,7 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: "Merriweather-Light", Helvetica, sans-serif;
+		font-family: Merriweather, Roboto,serif;
 		font-size: 1rem;
 		font-weight: 400;
 		letter-spacing: normal;

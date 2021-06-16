@@ -1,6 +1,7 @@
 @import url("https://awalkaday.art/assets/css/font-awesome.min.css");
-@import url("https://awalkaday.art/assets/fonts/SourceSans3-Regular.ttf");
-
+@font-face {
+  font-family: "Source Sans";
+	src: url("https://awalkaday.art/assets/fonts/SourceSans3-Regular.ttf") format("ttf")};
 /*
 	Multiverse by HTML5 UP
 	html5up.net | @ajlkn

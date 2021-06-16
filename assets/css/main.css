@@ -1,8 +1,9 @@
-@import url("/assets/css/font-awesome.min.css");
-@font-face {
-  	font-family: "Merriweather-Light";
-	src: url("/assets/fonts/Merriweather-Light.ttf") format("truetype"); /* Safari, Android, iOS */
-	font-display: swap;}
+@import url(font-awesome.min.css);
+@font-face {	
+	font-family: "MerriweatherSans-Light";
+	src: url(MerriweatherSans-Light.ttf) format("truetype"); /* Safari, Android, iOS */
+	font-display: swap;
+}
 /*
 	Multiverse by HTML5 UP
 	html5up.net | @ajlkn
@@ -170,9 +171,9 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: Merriweather, Roboto, serif;
+		font-family: "MerriweatherSans-Light", sans-serif;
 		font-size: 1rem;
-		font-weight: 300;
+		font-weight: 400;
 		letter-spacing: 0.025em;
 		line-height: 1.65;
 	}

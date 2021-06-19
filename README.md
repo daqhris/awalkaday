@@ -1,45 +1,45 @@
 # WALK≡DAY Visual Arts Gallery
-This is the public __code repository__ of a Jekyll static web app largely built in JavaScript for running an online art gallery.
+This is the public __code repository__ of a _Jekyll_ website largely built in _JavaScript_ for an online art gallery.
 
 ## Highlights
-1. __Easy__ setup and __free__ photography website.
-2. __No code__ changes required. Just upload your pictures to the repo.
-3. __Flexible & fast__ display for __web & mobile__ devices.
+1. __Easy__ setup and __Free__ photo gallery website.
+2. __No code__ changes required. Just upload your pictures to the code repository.
+3. __Responsive__ & __Fast__ display for __web and mobile__ devices.
 
 ## Quick Start
-If you have basic knoweldge about web development and you like taking pictures then, this open-source project may help you setup a website to showcase
+If you have basic knoweldge about web development and you like photography then, this open-source project may help you setup a website to showcase
 all your creations without effort.  
 
-**Follow the below steps and your website would be live in no time:**
+**Follow the steps below and your website would be live in no time:**
 
 1. Fork this repo by hitting the `Fork` button at the top right corner.
 2. Enable Github Pages from the repo settings.
-3. Upload your pictures to `images/fulls` and `images/thumbs` directory. _You can do that on github.com itself or you can clone and push the images to your repo._
-4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that GitHub provides ([yourusername].github.io/awalkaday).
+3. Upload your pictures to `images` directory. _You can do that on github.com itself or you can clone and push the images to your repo._
+4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that GitHub provides.
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
-6. And that's it, your website is set. To view, go to [awalkaday.art](https://awalkaday.art) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/awalkaday](https://yourusername.github.io/awalkaday)
+6. And that's it, your website is set. To view, go to [awalkaday.art](https://awalkaday.art) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/awalkaday](https://yourusername.github.io/awalkaday).
 
-And, of course, you can modify the words shown at the landing page bottom in `_config.yml` file as well as few other settings like your Google Analytics, Social Media icons, Contact Forms, etc.
+And, of course, you can modify the words shown at the landing page footer in `_config.yml` file as well as few other settings like your Google Analytics, Social Media icons, Contact Forms, etc.
  
 ## Tips
-The website is set up as a [npm](https://www.npmjs.com) package with [gulp](https://gulpjs.com/) to __automate image resizing
-and thumbnail generation__.   
+The website is set up as a [npm](https://www.npmjs.com) package with [gulp](https://gulpjs.com/) to automate image resizing
+and thumbnail generation.   
 You can just do the following before you push your images to GitHub.
 
-1. Fork and then clone the project to your computer
-2. Go inside the project `$ cd awalkaday`
-3. Install all dependencies by running `$ npm install`
-4. Copy all your pictures (possibly jpg, the largest size available, straight from your camera or original files) and put them inside `images` directory
-5. Run `$ gulp` to resize the images and to generate thumbnails automatically
-6. Push your local changes to github.com by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a nice commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`  
+1. Fork and then clone the project to your computer.
+2. Go inside the project's local folder `$ cd awalkaday`.
+3. Install all dependencies by running `$ npm install`. This step might take some time while automagically downloading and installing recent versions of [NodeJS](https://nodejs.org/en/), [ImageMagick](https://imagemagick.org/index.php), [Git](https://git-scm.com/), a software development kit like [Windows 10 SDK](https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk/), [Python](https://www.python.org/), Build Tools for your IDE like [Node.js for Visual Studio](https://visualstudio.microsoft.com/vs/features/node-js/) and other required dependecies.
+4. Copy all your pictures (if possible in JPG file format, the largest size available, straight from your camera or original files) and put them inside `images` directory.
+5. Run `$ gulp` on the command-line inside the git folder in order to resize the images and to generate thumbnails.
+6. Push your local changes to _github.com_ by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a short and descriptive commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`  
 
 ## Credits
-GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography), enhanced for [jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra), code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE)   
-Template: [Multiverse by HTML5 UP](https://html5up.net/multiverse), web designer and developer: [ajlkn](https://aj.lkn.io/)  
-__Fonts__ used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt)  
-Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
+GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography) — Enhanced for [Jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra) — Code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE).   
+Template: [Multiverse by HTML5 UP](https://html5up.net/multiverse) — Web designer and developer: [ajlkn](https://aj.lkn.io/).  
+__Fonts__: [Source Sans 3](https://github.com/daqhris/daqhris.github.io/blob/master/style/font/SourceSans3-Regular.ttf) — Used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt).  
+Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
 
 ## Copyrights  
-__Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)  
-__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)  
-__Site__ owner & developer: [Chris-Armel (daqhris)](https://daqhris.com)
+__Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)    
+__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)     
+__Site__ owner & developer: [Chris-Armel (daqhris)](https://daqhris.com)  

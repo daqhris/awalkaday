@@ -31,7 +31,7 @@ You can just do the following before you push your images to GitHub.
 3. Install all dependencies by running `$ npm install`. This step might take some time while automagically downloading and installing recent versions of [NodeJS](https://nodejs.org/en/), [ImageMagick](https://imagemagick.org/index.php), [Git](https://git-scm.com/), a software development kit like [Windows 10 SDK](https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk/), [Python](https://www.python.org/), Build Tools for your IDE like [Node.js for Visual Studio](https://visualstudio.microsoft.com/vs/features/node-js/) and other required dependecies.
 4. Copy all your pictures (if possible in JPG file format, the largest size available, straight from your camera or original files) and put them inside `images` directory.
 5. Run `$ gulp` on the command-line inside the git folder in order to resize the images and to generate thumbnails.
-6. Push your local changes to _github.com_ by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a short and descriptive commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`  
+6. Push your local changes to _github.com_ by using `$ git add --all`, then send a [signed commit](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) `$ git commit -S -m "a short and descriptive commit message"` and finally update your remote repository on GitHub by using `$ git push origin master`.  
 
 ## Credits
 GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography) — Enhanced for [Jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra) — Code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE).   
@@ -40,6 +40,6 @@ __Fonts__: [Source Sans 3](https://github.com/daqhris/daqhris.github.io/blob/mas
 Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
 
 ## Copyrights  
-__Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE)    
-__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)     
-__Site__ owner & developer: [Chris-Armel (daqhris)](https://daqhris.com)  
+__Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE).    
+__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).     
+__Site__ owner & developer: [Chris-Armel (daqhris)](https://daqhris.com).  

@@ -1,7 +1,7 @@
 {
   "name": "awalkaday",
-  "version": "3.0.0",
-  "description": "WALK≡DAY Visual Arts Gallery to inspire daily walking habits",
+  "version": "1.0.0",
+  "description": "WALK≡DAY Visual Arts Gallery: black-and-white photography to inspire daily walking habits",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "photography",
     "portfolio",
     "black and white images",
-    "gallery"
+    "online art gallery"
   ],
   "author": "Chris-Armel",
   "license": "EUPL-1.2",

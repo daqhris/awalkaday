@@ -4,9 +4,9 @@ This is the public __code repository__ of a _Jekyll_ website largely built in _J
 <img src="https://raw.githubusercontent.com/daqhris/awalkaday/master/assets/icons/awalkaday_art-web_overview.PNG" alt="website overview demo">  
 
 ## Highlights
-1. __Easy__ setup and __Free__ photo gallery website.
+1. __Easy__ setup and __free__ photo gallery website.
 2. __No code__ changes required. Just upload your pictures to the code repository.
-3. __Responsive__ & __Fast__ display for __web and mobile__ devices.
+3. __Responsive__ & __fast__ display for __web and mobile__ devices.
 
 ## Quick Start
 If you have basic knoweldge about web development and you like photography then, this open-source project may help you setup a website to showcase
@@ -21,7 +21,9 @@ all your creations without effort.
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
 6. And that's it, your website is set. To view, go to [awalkaday.art](https://awalkaday.art) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/awalkaday](https://yourusername.github.io/awalkaday).
 
-And, of course, you can modify the words shown at the landing page footer in `_config.yml` file as well as few other settings like your Google Analytics, Social Media icons, Contact Forms, etc.
+And, of course, you can modify the words shown at the landing page footer in `_config.yml` file as well as few other settings like your Google Analytics, Social Media icons, Contact Forms, etc.  
+
+<img src="https://raw.githubusercontent.com/daqhris/awalkaday/master/assets/icons/awalkaday_art-web_footer.PNG" alt="website footer demo">  
  
 ## Tips
 The website is set up as a [npm](https://www.npmjs.com) package with [gulp](https://gulpjs.com/) to automate image resizing
@@ -39,7 +41,7 @@ You can just do the following before you push your images to GitHub.
 GitHub repo __forked__ from: [rampatra/photography](https://github.com/rampatra/photography) — Enhanced for [Jekyll](https://jekyllrb.com/) by [Ram  Patra](https://github.com/rampatra) — Code reused under [GPL-3.0 License](https://raw.githubusercontent.com/rampatra/photography/master/LICENSE).   
 Template: [Multiverse by HTML5 UP](https://html5up.net/multiverse) — Web designer and developer: [ajlkn](https://aj.lkn.io/).  
 __Fonts__: [Source Sans 3](https://github.com/daqhris/daqhris.github.io/blob/master/style/font/SourceSans3-Regular.ttf) — Used under: [SIL Open Font License](https://raw.githubusercontent.com/daqhris/daqhris.github.io/master/style/font/license/OFL.txt).  
-Brand __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
+Brand __icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
 
 ## Copyrights  
 __Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/daqhris/awalkaday/master/LICENSE).    

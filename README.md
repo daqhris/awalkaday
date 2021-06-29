@@ -1,5 +1,7 @@
 # WALK≡DAY Visual Arts Gallery
-This is the public __code repository__ of a _Jekyll_ website largely built in _JavaScript_ for an online art gallery.
+This is the public __code repository__ of a _Jekyll_ website largely built in _JavaScript_ for an online art gallery.  
+
+<img src="https://awalkaday.art/assets/icons/awalkaday_art-web_overview.png" alt="website overview demo">  
 
 ## Highlights
 1. __Easy__ setup and __Free__ photo gallery website.

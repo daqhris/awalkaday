@@ -1,5 +1,5 @@
 # WALK≡DAY Visual Arts Gallery
-This is the __code repository__ of a _Jekyll_-based web app mainly built in _JavaScript_ for running an online art gallery.  
+This is the __code repository__ of a _Jekyll_-based static web app mainly built in _JavaScript_ for running an online art gallery.  
 
 <img src="https://raw.githubusercontent.com/daqhris/awalkaday/master/assets/icons/awalkaday_art-web_overview.PNG" alt="website overview demo">  
 

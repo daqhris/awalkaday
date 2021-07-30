@@ -18,3 +18,7 @@ web_design: "daqhris.com"
 social_urls:
   instagram: "https://www.instagram.com/walk.day"
   github: "https://github.com/daqhris/awalkaday"
+
+# Links conditions
+url: https://awalkaday.art
+enforce_ssl: awalkaday.art

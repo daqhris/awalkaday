@@ -10,8 +10,8 @@ layout: default
         <h1><a href="index.html"><strong>{{ site.header.title }}</strong> {{ site.header.subtitle }}</a></h1>
         <nav>
             <ul>
-                <li><a href="https://opensea.io/collection/awalkaday" class="icon fa-shopping-basket">NFT Store</a></li>
-                <li><a href="#footer" class="icon fa-info-circle">About</a></li>
+                <li><a href="https://opensea.io/collection/awalkaday" class="icon fa-shopping-basket" aria-hidden="true" title="Purchase awalkaday.art NFTs collection">Shop</a></li>
+                <li><a href="#footer" class="icon fa-info-circle" aria-hidden="true" title="Find out more about the digital art gallery">About</a></li>
             </ul>
         </nav>
     </header>
@@ -58,14 +58,14 @@ layout: default
                     <ul class="icons">
                         {% if site.social_urls.instagram %}
                             <li>
-                                <a href="{{ site.social_urls.instagram }}" class="icon fa-instagram">
+                                <a href="{{ site.social_urls.instagram }}" class="icon fa-instagram" aria-hidden="true">
                                     <span class="label">Instagram</span>
                                 </a>
                             </li>
                         {% endif %}
                         {% if site.social_urls.github %}
                             <li>
-                                <a href="{{ site.social_urls.github }}" class="icon fa-github">
+                                <a href="{{ site.social_urls.github }}" class="icon fa-github" aria-hidden="true">
                                     <span class="label">GitHub</span>
                                 </a>
                             </li>

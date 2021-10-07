@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/daqhris/awalkaday/issues"
   },
-  "homepage": "https://awalkaday.art",
+  "homepage": "https://beta.awalkaday.art",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^4.0.2",

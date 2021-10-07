@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://awalkaday.art/sitemap.xml
+Sitemap: https://beta.awalkaday.art/sitemap.xml

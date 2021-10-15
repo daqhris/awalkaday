@@ -39,7 +39,7 @@
 		}
 
 		body.modal-active & {
-			@include vendor('filter', 'blur(8px)');
+			@include vendor('filter', 'blur(1rem)');
 
 			&:after {
 				@include vendor('pointer-events', 'auto');
@@ -57,7 +57,7 @@
 				'opacity 0.35s ease-out',
 				'visibility 0.35s'
 			));
-			background-image: url('images/spinner.svg');
+			background-image: url('/assets/css/images/spinner.svg');
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;

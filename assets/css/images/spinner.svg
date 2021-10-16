@@ -2,7 +2,7 @@
 	<style>
 		circle {
 			fill: transparent;
-			stroke: #a0a0a1;
+			stroke: #808080;
 			stroke-width: 0.5rem;
 		}
 	</style>

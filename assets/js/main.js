@@ -296,9 +296,4 @@
 
 	});
 
-				//Open browser window object to connect to the Ethereum network
-				if (window.ethereum) {
-					window.web3 = new Web3(window.ethereum);
-					await window.ethereum.enable();
-				  }
 })(jQuery);

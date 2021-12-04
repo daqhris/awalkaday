@@ -18,7 +18,7 @@ If you have basic knowledge about web development and you like photography, then
 3. Upload your pictures to `images` directory. (You may do that on github.com itself or you may clone and push the images to your repo.)
 4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that GitHub provides.
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step #4.
-6. And that's it, your web application is set. To view, go to [awalkaday.art](https://awalkaday.art) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/awalkaday](https://yourusername.github.io/awalkaday).
+6. And that's it, your web application is set. To view, go to [beta.awalkaday.art](https://beta.awalkaday.art) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/awalkaday](https://yourusername.github.io/awalkaday).
 
 And, of course, you can modify the words that are shown on the landing page's footer in `_config.yml` file as well as few other settings like your social media icons, contact form, etc.  
 
@@ -43,7 +43,7 @@ __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [
 
 ## Copyrights
 __Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/LICENSE).    
-__Content__ Legal Rights: [Creative Commons Public License: Attribution 4.0 International (CC BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode).     
+__Content__ Legal Rights: [Creative Commons Zero License: Public Domain (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).     
 __Website__ owner & developer: [Chris-Armel](https://daqhris.com) [(@daqhris)](https://github.com/daqhris).  
 
 <img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday-logo-1x1.png" alt="website logo" width="200" height="200">  

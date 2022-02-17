@@ -1500,7 +1500,7 @@
 				transition-delay: 2.3s;
 			}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1680px) {
 
 			#main .thumb {
 				-moz-transition-delay: 1.625s;

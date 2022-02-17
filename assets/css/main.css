@@ -181,7 +181,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 10pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -1411,10 +1411,9 @@
 			-webkit-transition-delay: 2.525s;
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
-			height: calc(28.57143vh - 1.33333em);
-			min-height: 18em;
-			width: 20%;
-
+			height: calc(40vh - 2em);
+			min-height: 20em;
+			width: 25%;
 		}
 
 			#main .thumb:nth-child(1) {
@@ -1501,7 +1500,7 @@
 				transition-delay: 2.3s;
 			}
 
-		@media screen and (min-width: 736px) {
+		@media screen and (max-width: 1680px) {
 
 			#main .thumb {
 				-moz-transition-delay: 1.625s;
@@ -1577,7 +1576,7 @@
 				}
 			}
 
-		@media screen and (min-width: 480px) {
+		@media screen and (max-width: 480px) {
 
 			#main .thumb {
 				-moz-transition-delay: 1.175s;

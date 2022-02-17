@@ -1376,8 +1376,8 @@ body.loading #main .thumb {
   -webkit-transition-delay:1.625s;
   -ms-transition-delay:1.625s;
   transition-delay:1.625s;
-  height:calc(40vh - 2em);
-  min-height:20em
+  height:calc(28.57143vh - 1.33333em);
+  min-height:18em
  }
  #main .thumb:nth-child(1) {
   -moz-transition-delay:0.65s;

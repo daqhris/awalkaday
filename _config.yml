@@ -14,10 +14,10 @@ header:
 footer:
  name: "WALK&equiv;DAY Visual Arts Gallery"
  bio: "This digital art gallery curates black-and-white visual artworks that inspire to step outdoors and enjoy a walk.<br>
- All the displayed artworks belong to the awalkaday.art NFT Collection that is minted by Chris-Armel (daqhris.eth) on the Ethereum blockchain.<br>
- The art collection contains unique photographs of nature, landscape, architecture and streets. 
- The monochrome photographs were shot during long walks, in diverse locations, all around Belgium (Europe)."
-web_design: "daqhris.com"
+ The artworks belong to the awalkaday.art NFT Collection that is minted by Chris-Armel (daqhris.eth) on the Ethereum blockchain.<br>
+ The art collection contains unique pieces of nature, landscape and architecture photography.<br> 
+ The monochrome photographs were captured during long walks, in diverse locations, all around Belgium (Europe)."
+web_design: "Chris-Armel (@daqhris)"
 social_urls:
   instagram: "https://www.instagram.com/walk.day"
   github: "https://github.com/daqhris/awalkaday"

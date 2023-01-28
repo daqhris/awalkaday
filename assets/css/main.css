@@ -133,10 +133,10 @@
 		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 320px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 240px;
 		}
 
 	}
@@ -252,7 +252,7 @@
 		font-size: 0.7em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 600px) {
 
 		h2 {
 			font-size: 1em;
@@ -623,7 +623,7 @@
 						padding: 0 0 0 0.5em;
 					}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 320px) {
 
 				ul.actions {
 					margin: 0 0 2em 0;
@@ -848,7 +848,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 600px) {
 
 			.panel {
 				-moz-transform: translateY(-100vh);
@@ -1025,7 +1025,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 600px) {
 
 			.poptrox-popup:before {
 				display: none;
@@ -1241,7 +1241,7 @@
 							background-color: #242629;
 						}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 600px) {
 
 		body {
 			padding: 4em 0 0 0;
@@ -1575,7 +1575,7 @@
 				}
 			}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 320px) {
 
 			#main .thumb {
 				-moz-transition-delay: 1.175s;

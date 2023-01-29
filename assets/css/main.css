@@ -1423,7 +1423,7 @@
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
 			height: calc(28.57143vh - 1.33333em);
-			width: calc(min(28.57143vh - 1.33333em, 20%)); /*this sets the width of an element to either be equal or greater than the calculated height*/
+			width: 20%; 
 			min-height: 18em;
 	}
 
@@ -1519,7 +1519,7 @@
 				-ms-transition-delay: 1.625s;
 				transition-delay: 1.625s;
 				height: calc(28.57143vh - 1.33333em);
-				width: calc(min(28.57143vh - 1.33333em, 20%)); /*This sets the width of an element to either be equal or greater than the calculated height*/
+				width: 20%; 
 				min-height: 18em;
 			}
 

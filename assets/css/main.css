@@ -129,23 +129,11 @@
 		width: device-width;
 	}
 
-	/*Take into consideration the screen orientation to set the device width. set the maximum width to the same as an iPad. */
-
-	@media only screen and (min-device-width: 640px) and (max-device-width: 1024px) and (orientation: portrait) {
-		body {
-			width: 768px;
-			-ms-overflow-style: scrollbar;
-		}
-	}
-	
-	@media only screen and (min-device-width: 640px) and (max-device-width: 1024px) and (orientation: landscape) {
-		body {
-			width: 1024px;
-			-ms-overflow-style: scrollbar;
-		}
+	body {
+		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 480px) {
 
 		html, body {
 			min-width: 320px;
@@ -264,7 +252,7 @@
 		font-size: 0.7em;
 	}
 
-	@media screen and (max-width: 640px) {
+	@media screen and (max-width: 736px) {
 
 		h2 {
 			font-size: 1em;
@@ -635,7 +623,7 @@
 						padding: 0 0 0 0.5em;
 					}
 
-			@media screen and (max-width: 320px) {
+			@media screen and (max-width: 480px) {
 
 				ul.actions {
 					margin: 0 0 2em 0;
@@ -844,7 +832,7 @@
 
 		}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 980px) {
 
 			.panel > .inner.split {
 				-moz-flex-direction: column;
@@ -860,7 +848,7 @@
 
 		}
 
-		@media screen and (max-width: 640px) {
+		@media screen and (max-width: 736px) {
 
 			.panel {
 				-moz-transform: translateY(-100vh);
@@ -1024,7 +1012,7 @@
 			opacity: 1.0 !important;
 		}
 
-		@media screen and (max-width: 1024px) {
+		@media screen and (max-width: 980px) {
 
 			.poptrox-popup .closer {
 				background-size: 3em;
@@ -1037,7 +1025,7 @@
 
 		}
 
-		@media screen and (max-width: 640px) {
+		@media screen and (max-width: 736px) {
 
 			.poptrox-popup:before {
 				display: none;
@@ -1253,7 +1241,7 @@
 							background-color: #242629;
 						}
 
-	@media screen and (max-width: 640px) {
+	@media screen and (max-width: 736px) {
 
 		body {
 			padding: 4em 0 0 0;
@@ -1423,8 +1411,8 @@
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
 			height: calc(28.57143vh - 1.33333em);
-			width: 20%; 
 			min-height: 18em;
+			width: 20%;
 	}
 
 			#main .thumb:nth-child(1) {
@@ -1519,8 +1507,8 @@
 				-ms-transition-delay: 1.625s;
 				transition-delay: 1.625s;
 				height: calc(28.57143vh - 1.33333em);
-				width: 20%; 
 				min-height: 18em;
+				width: 20%;
 			}
 
 				#main .thumb:nth-child(1) {
@@ -1587,7 +1575,7 @@
 				}
 			}
 
-		@media screen and (max-width: 320px) {
+		@media screen and (max-width: 480px) {
 
 			#main .thumb {
 				-moz-transition-delay: 1.175s;

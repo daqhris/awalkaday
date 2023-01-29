@@ -133,7 +133,7 @@
 		-ms-overflow-style: scrollbar;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 1680px) {
 
 		html, body {
 			min-width: 320px;

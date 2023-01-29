@@ -8,17 +8,16 @@
 
 	skel.breakpoints({
 		large: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 600px)',
+		medium: '(max-width: 1024px)',
+		small: '(max-width: 640px)',
 		xsmall: '(max-width: 320px)'
 	});
 
 	$(function() {
 
-		var	$window = $(window),
-			$body = $('body'),
-			$wrapper = $('#wrapper');
+		const	$window = $(window),
+				$body = $('body'),
+				$wrapper = $('#wrapper');
 
 		// Hack: Enable IE workarounds.
 			if (skel.vars.IEVersion < 12)
@@ -41,7 +40,7 @@
 					});
 
 				// Prevent transitions/animations on resize.
-					var resizeTimeout;
+					const resizeTimeout;
 
 					$window.on('resize', function() {
 
@@ -64,11 +63,11 @@
 			$('form').placeholder();
 
 		// Panels.
-			var $panels = $('.panel');
+			let $panels = $('.panel');
 
 			$panels.each(function() {
 
-				var $this = $(this),
+				let $this = $(this),
 					$toggles = $('[href="#' + $this.attr('id') + '"]'),
 					$closer = $('<div class="closer" />').appendTo($this);
 
@@ -162,12 +161,12 @@
 					});
 
 		// Header.
-			var $header = $('#header');
+			const $header = $('#header');
 
 			// Links.
 				$header.find('a').each(function() {
 
-					var $this = $(this),
+					const $this = $(this),
 						href = $this.attr('href');
 
 					// Internal link? Skip.
@@ -191,14 +190,14 @@
 				});
 
 		// Footer.
-			var $footer = $('#footer');
+			const $footer = $('#footer');
 
 			// Copyright.
 			// This basically just moves the copyright line to the end of the *last* sibling of its current parent
 			// when the "medium" breakpoint activates, and moves it back when it deactivates.
 				$footer.find('.copyright').each(function() {
 
-					var $this = $(this),
+					const $this = $(this),
 						$parent = $this.parent(),
 						$lastParent = $parent.parent().children().last();
 
@@ -213,12 +212,12 @@
 				});
 
 		// Main.
-			var $main = $('#main');
+			let $main = $('#main');
 
 			// Thumbs.
 			$main.children('.thumb').each(function() {
 
-				var $this = $(this),
+				let $this = $(this),
 				  $image = $this.find('.image'), $image_img = $image.children('img'),
 				  x,
 				  randomPos;
@@ -264,7 +263,7 @@
 					baseZIndex: 20000,
 					caption: function($a) {
 
-						var s = '';
+						let s = '';
 
 						$a.nextAll().each(function() {
 							s += this.outerHTML;

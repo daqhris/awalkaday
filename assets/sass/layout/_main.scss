@@ -123,13 +123,9 @@
 				  @include vendor('transition-delay', '#{$baseDelay + ($i * _duration(thumb))}');
 				}
 			  }
-		  
-			  @media (max-width: 767px) {
-				width: (100% / 2);
-			  }
 			}
-		  }		  
-
+		  }
+		  
 		// Default.
 			@include thumb(
 				_misc(main-layout, default, rows),

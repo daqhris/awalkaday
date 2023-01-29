@@ -239,8 +239,7 @@
 				$image.css('background-image', 'url(' + $image_img.attr('src') + ')');
 			  
 				// Hide original img.
-				$image_img.hide();
-			  });			  
+				$image_img.hide();		  
 
 					// Hack: IE<11 doesn't support pointer-events, which means clicks to our image never
 					// land as they're blocked by the thumbnail's caption overlay gradient. This just forces
@@ -297,4 +296,4 @@
 						});
 
 	});
-(jQuery);
+})(jQuery);

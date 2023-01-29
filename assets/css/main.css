@@ -128,7 +128,7 @@
 	@-ms-viewport {
 		width: device-width;
 	}
-	
+
 	/*Take into consideration the screen orientation to set the device width. set the maximum width to the same as an ipad. */
 
 	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
@@ -1423,8 +1423,8 @@
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
 			height: calc(28.57143vh - 1.33333em);
+			width: calc(min(28.57143vh - 1.33333em, 20%)); /*this sets the width of an element to either be equal or greater than the calculated height*/
 			min-height: 18em;
-			width: 20%;
 	}
 
 			#main .thumb:nth-child(1) {
@@ -1519,8 +1519,8 @@
 				-ms-transition-delay: 1.625s;
 				transition-delay: 1.625s;
 				height: calc(28.57143vh - 1.33333em);
+				width: calc(min(28.57143vh - 1.33333em, 20%)); /*This sets the width of an element to either be equal or greater than the calculated height*/
 				min-height: 18em;
-				width: 20%;
 			}
 
 				#main .thumb:nth-child(1) {

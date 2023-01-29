@@ -15,9 +15,9 @@
 
 	$(function() {
 
-		const	$window = $(window),
-				$body = $('body'),
-				$wrapper = $('#wrapper');
+		var	$window = $(window),
+			$body = $('body'),
+			$wrapper = $('#wrapper');
 
 		// Hack: Enable IE workarounds.
 			if (skel.vars.IEVersion < 12)
@@ -40,7 +40,7 @@
 					});
 
 				// Prevent transitions/animations on resize.
-					const resizeTimeout;
+					var resizeTimeout;
 
 					$window.on('resize', function() {
 
@@ -63,11 +63,11 @@
 			$('form').placeholder();
 
 		// Panels.
-			let $panels = $('.panel');
+			var $panels = $('.panel');
 
 			$panels.each(function() {
 
-				let $this = $(this),
+				var $this = $(this),
 					$toggles = $('[href="#' + $this.attr('id') + '"]'),
 					$closer = $('<div class="closer" />').appendTo($this);
 
@@ -161,12 +161,12 @@
 					});
 
 		// Header.
-			const $header = $('#header');
+			var $header = $('#header');
 
 			// Links.
 				$header.find('a').each(function() {
 
-					const $this = $(this),
+					var $this = $(this),
 						href = $this.attr('href');
 
 					// Internal link? Skip.
@@ -190,14 +190,14 @@
 				});
 
 		// Footer.
-			const $footer = $('#footer');
+			var $footer = $('#footer');
 
 			// Copyright.
 			// This basically just moves the copyright line to the end of the *last* sibling of its current parent
 			// when the "medium" breakpoint activates, and moves it back when it deactivates.
 				$footer.find('.copyright').each(function() {
 
-					const $this = $(this),
+					var $this = $(this),
 						$parent = $this.parent(),
 						$lastParent = $parent.parent().children().last();
 
@@ -212,12 +212,12 @@
 				});
 
 		// Main.
-			let $main = $('#main');
+			var $main = $('#main');
 
 			// Thumbs.
 			$main.children('.thumb').each(function() {
 
-				let $this = $(this),
+				var $this = $(this),
 				  $image = $this.find('.image'), $image_img = $image.children('img'),
 				  x,
 				  randomPos;
@@ -263,7 +263,7 @@
 					baseZIndex: 20000,
 					caption: function($a) {
 
-						let s = '';
+						var s = '';
 
 						$a.nextAll().each(function() {
 							s += this.outerHTML;

@@ -111,20 +111,24 @@
 		@mixin thumb($rows, $columns, $pad, $minHeight) {
 			$baseDelay: _duration(header) - 0.5;
 			$defaultDelay: $baseDelay + (((($rows * $columns) + 1) * 1.5) * _duration(thumb));
-
+		  
 			.thumb {
-				@include vendor('transition-delay', '#{$defaultDelay}');
-				height: calc(#{100vh / ($rows + $pad)} - #{_size(header) / $rows});
-				min-height: $minHeight;
-				width: (100% / $columns);
-
-				@for $i from 1 through (($rows * $columns) * 1.5) {
-					&:nth-child(#{$i}) {
-						@include vendor('transition-delay', '#{$baseDelay + ($i * _duration(thumb))}');
-					}
+			  @include vendor('transition-delay', '#{$defaultDelay}');
+			  height: calc(#{100vh / ($rows + $pad)} - #{_size(header) / $rows});
+			  min-height: $minHeight;
+			  width: (100% / $columns);
+		  
+			  @for $i from 1 through (($rows * $columns) * 1.5) {
+				&:nth-child(#{$i}) {
+				  @include vendor('transition-delay', '#{$baseDelay + ($i * _duration(thumb))}');
 				}
+			  }
+		  
+			  @media (max-width: 767px) {
+				width: (100% / 2);
+			  }
 			}
-		}
+		  }		  
 
 		// Default.
 			@include thumb(

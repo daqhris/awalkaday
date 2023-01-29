@@ -222,6 +222,12 @@
 				  $image = $this.find('.image'), $image_img = $image.children('img'),
 				  x,
 				  randomPos;
+
+				// Shuffle the elements
+				$main.children('.thumb').sort(function() {
+					return Math.round(Math.random())-0.5;
+				}).appendTo($main);
+
 			  
 				// No image? Bail.
 				if ($image.length == 0)

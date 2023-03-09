@@ -1554,10 +1554,10 @@
 /* Footer */
 
 	#footer .copyright {
-		color: #f0f0f0;
+		color: #A0A0A1;
 		font-size: 1em;
 	}
 
 		#footer .copyright a {
-			color: inherit;
+			color: #f0f0f0;
 		}

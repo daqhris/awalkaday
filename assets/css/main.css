@@ -1175,7 +1175,7 @@
 						}
 
 						#header nav > ul > li a:hover {
-							color: #ffffff !important;
+							color: inherit !important;
 						}
 
 						#header nav > ul > li a.active {

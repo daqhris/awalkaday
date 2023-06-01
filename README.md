@@ -1,12 +1,12 @@
 # WALK≡DAY Visual Arts Gallery
-This is the __code repository__ of a web app mainly built in _JavaScript_ that is used to run a digital art gallery.  
+This is the __code repository__ of a website, mainly built in _JavaScript_, that is used to host a digital art gallery.  
 
-<img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.PNG" alt="website overview demo">  
+<img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday_art-web_overview.png" alt="website overview screenshot">  
 
 ## Highlights
-1. __Easy__ setup and __free__ digital art gallery web app.
-2. __No complex code__ changes required. Just upload your pictures to the repository.
-3. __Responsive & fast__ display for __web and mobile__ devices.
+1. __Easy__ setup and __lightweight__ digital art gallery website.
+2. __No complex code__ changes required. 
+3. __Responsive & Fast__ display for __Web and Mobile__ devices.
 
 ## Quick Start
 If you have basic knowledge about web development and you like photography, then this open-source project may help you setup a web application to showcase all your creations without much effort.  
@@ -43,7 +43,7 @@ __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [
 
 ## Copyrights
 __Code__ License: [European Union Public License 1.2](https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/LICENSE).    
-__Content__ Legal Rights: [Creative Commons Zero License: Public Domain (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).  
+__Content__ Legal Rights: [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
 __Website__ owner & developer: [Chris-Armel](https://daqhris.com) [(@daqhris)](https://github.com/daqhris).  
 
 <img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday-logo-1x1.png" alt="website logo" width="200" height="200">  

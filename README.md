@@ -1,4 +1,4 @@
-# WALK≡DAY Visual Arts Gallery
+# awalkaday.art Photography Collection
 This is the __code repository__ of a website, mainly built in _JavaScript_, that is used to host a digital art gallery.  
 
 <img src="https://raw.githubusercontent.com/daqhris/awalkaday/master/assets/icons/awalkaday_art-web_overview.png" alt="website overview screenshot">  

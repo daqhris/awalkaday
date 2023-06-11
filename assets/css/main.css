@@ -417,6 +417,20 @@
 		background-color: #1a1a1d; /* set button active background color to a darker monochrome shade */
 		}
 
+	button.collect:hover,
+		.button.collect:hover {
+		background-color: #fff;
+		color: #36383c;
+		box-shadow: inset 0 0 0 2px powderblue;
+	}
+
+	button.collect:active,
+		.button.collect:active {
+		background-color: #fff;
+		color: lightgreen;
+		box-shadow: inset 0 0 0 2px lightblue;
+		}
+
 /* Icon */
 
 	.icon {

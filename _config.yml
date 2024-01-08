@@ -5,19 +5,19 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "awalkaday.art Photography Collection [beta/test]"
-subtitle: "The sun is up and running, every day, for you. For a healthier life, let's #awalkaday!"
-author: "2021-2023 Chris-Armel (daqhris)"
+title: "awalkaday.art Photography Collection [beta]"
+subtitle: "The sun is out and walking, every day, for you. For a healthier life, let's #awalkaday!"
+author: "2021-2024 Chris-Armel (daqhris)"
 header:
- title: "awalkaday.art Photography Collection"
- subtitle: "[beta version]"
+ title: "awalkaday.art"
+ subtitle: "by daqhris [TEST]"
 footer:
  name: "awalkaday.art Photography Collection"
- bio: "A collection of black-and-white photographs showcasing the beauty of the natural landscapes and architectural wonders of Belgium (Europe). 
- Photographer Chris-Armel (daqhris) created each piece as a tribute to the joys of walking in nature, capturing the magnificence and mysteries that surround us. 
- Immerse yourself in the collection and embark on a stunning visual journey of exploration. 
- Each photo is uniquely identified and certified by a token on the Ethereum blockchain. 
- The art project's smart contract, named awalkaday.art, was published on the blockchain in February 2023 and allows for the purchase of artwork from the photo collection."
+ bio: "Explore a captivating collection of black-and-white photographs that artfully capture the natural landscapes and architectural wonders of Belgium, Europe. 
+ Chris-Armel (daqhris) crafted each piece as a tribute to the joys of walking in nature, capturing the magnificence and mysteries that surround us. 
+ Immerse yourself in the photo series on awalkaday.art and embark on a stunning journey of visual exploration! 
+ Each photograph is assigned a unique identification token on the Ethereum blockchain, certifying its authenticity. 
+ In February 2023, a smart contract named awalkaday.art was deployed on the blockchain, facilitating the purchase of artwork from this unique collection of photographs."
 web_design: "Chris-Armel (daqhris)"
 social_urls:
   instagram: "https://www.instagram.com/walk.day"

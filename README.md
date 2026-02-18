@@ -1,6 +1,6 @@
 # awalkaday.art Photography Collection
 This is the __code repository__ of a website, mainly built in _JavaScript_, that is used to host a digital photography gallery.  
-
+> ARCHIVED FOR PRESERVATION (IN FEB 2026) — NO CODE MAINTENANCE (SINCE FEB 2024) — GO TO [github.com/awalkaday](https://github.com/awalkaday)
 <img src="https://raw.githubusercontent.com/daqhris/awalkaday/master/assets/icons/awalkaday_art-web_overview.png" alt="website overview screenshot">  
 
 ## Highlights
@@ -44,6 +44,6 @@ __Icons__ made from: [OpenMoji](https://openmoji.org/about/) — Remixed under [
 ## Copyrights
 __Code__ Open-source License: [European Union Public License 1.2](https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/LICENSE).    
 __Content__ Legal Rights: [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
-__Website__ Owner & Developer: [Chris-Armel](https://daqhris.com) [(@daqhris)](https://github.com/daqhris).  
+__Website__ Owner & Developer: [Chris-Armel Iradukunda](https://daqhris.com) [(@daqhris)](https://github.com/daqhris).  
 
 <img src="https://raw.githubusercontent.com/awalkaday/awalkaday-art/master/assets/icons/awalkaday-logo-1x1.png" alt="website logo" width="200" height="200">  
